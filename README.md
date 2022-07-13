@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ayush
 #### I am an Aspiring Software Developer
-![I am an Aspiring Software Developer]
+![I am an Aspiring Software Developer](https://github.com/AyushAgarwal764/AyushAgarwal764/blob/main/768px-Python-logo-notext.svg.png)
 
 I am currently an Undergraduate Computer Engineering Student who is interested in Python, Web and Mobile Dev and all things Tech
 
