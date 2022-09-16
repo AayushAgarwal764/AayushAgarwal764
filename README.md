@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ayush Agarwal </h1>
-<h3 align="center">Undergrad computer engineering student from India</h3>
+<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h3 align="center">A passionate Android Developer from India</h3>
 
-## 💫 About Me:
-<h3> - I'm a beginner full-stack developer<br>- I work on python and web development<br>- Always up for exploring new libraries and frameworks<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushagarwal764&label=Profile%20views&color=0e75b6&style=flat" alt="aayushagarwal764" /> </p>
 
-![](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif) 
+- 🌱 I’m currently learning **Android Development**
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%231572B6.svg?style=for-the-badge&logo=linux&logoColor=white) 
+- 👨‍💻 All of my projects are available at [https://github.com/AayushAgarwal764](https://github.com/AayushAgarwal764)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-agarwal-1ab641228)
+- 📫 How to reach me **aayushagarwal764@gmail.com**
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AayushAgarwal764&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushAgarwal&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-agarwal-1ab641228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-agarwal-1ab641228/" height="30" width="40" /></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AayushAgarwal764&label=Profile%20views&color=0e75b6&style=flat" alt="ayushagarwal" /> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushagarwal764&show_icons=true&locale=en" alt="aayushagarwal764" /></p>
