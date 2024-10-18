@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushagarwal764&label=Profile%20views&color=0e75b6&style=flat" alt="aayushagarwal764" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AayushAgarwal764](https://github.com/AayushAgarwal764)
 
 - 📫 How to reach me **aayushagarwal764@gmail.com**
